@@ -1,5 +1,6 @@
 <?php
 
-echo "Olá Mundão Velho de Guerra!";
+echo "Olá Mundão!";
+echo "Eita carai....."
 
 ?>
